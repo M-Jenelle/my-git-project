@@ -1,7 +1,7 @@
 My notes go here
 
 
-Really great resources that I found to interest anybody exploring data science as a career :) 
+Really great resources that I found for anybody interested in exploring data science as a career :) 
 
 
 Readings/Videos
